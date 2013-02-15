@@ -1,8 +1,8 @@
 # QuickDiff
 
-**QuickDiff** is a text diffing class for PHP. It might not be very accurate but it's very easy to use and have two modes – finding changes by line or inline (within one line). It also comes with built-in HTML generation although you need to style it yourself with CSS.
+**QuickDiff** is a text diffing class for PHP. It might not be very accurate but it's very easy to use and have two modes - finding changes by line or inline (within one line). It also comes with built-in HTML generation although you need to style it yourself with CSS.
 
-It has no dependencies and works out of the box in **PHP 5.2 and up** – simply include it and you're ready to go.
+It has no dependencies and works out of the box in **PHP 5.2 and up** - simply include it and you're ready to go.
 
 **Unless you're using Laravel QuickDiff is just a single file (`quickdiff.php`).**
 
