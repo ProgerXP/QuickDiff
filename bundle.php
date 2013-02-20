@@ -3,7 +3,7 @@ return array(
   'quickdiff' => array(
     'autoloads' => array(
       'map' => array(
-        'QuickDiff' => '(:bundle)/QuickDiff.php',
+        'QuickDiff' => '(:bundle)/quickdiff.php',
         'LaraQDiff' => '(:bundle)/LaraQDiff.php',
       ),
     ),
